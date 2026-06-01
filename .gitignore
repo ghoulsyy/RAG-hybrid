@@ -1,0 +1,14 @@
+#.gitignore
+__pycache__/
+*.pyc
+.env
+data/chroma_db/
+data/bm25_index/
+data/md5.txt
+chat_history/
+*.log
+.venv/
+venv/
+.vscode/
+.idea/
+evaluation/README.md
